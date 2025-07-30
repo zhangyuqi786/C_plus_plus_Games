@@ -2,4 +2,4 @@
 生命游戏Game of Life
 
 需要EasyX库
-need to install C++ library <EasyX>
+need to install C++ library called EasyX.
